@@ -1,0 +1,11 @@
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\x86\Debug\DataManager.dll.config
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\x86\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\x86\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\x86\Debug\EncryptUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\x86\Debug\MySql.Data.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\x86\Debug\EncryptUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\x86\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\x86\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\x86\Debug\DataManager.csproj.CopyComplete
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\x86\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\x86\Debug\DataManager.pdb

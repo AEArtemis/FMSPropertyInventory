@@ -1,0 +1,21 @@
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\Debug\EncryptUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\bin\Debug\EncryptUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\Debug\DataManager.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\DataManager\obj\Debug\DataManager.pdb
+C:\Users\limpo\source\repos\FMS\Common\DataManager\bin\Debug\DataManager.dll.config
+C:\Users\limpo\source\repos\FMS\Common\DataManager\bin\Debug\DataManager.dll
+C:\Users\limpo\source\repos\FMS\Common\DataManager\bin\Debug\DataManager.pdb
+C:\Users\limpo\source\repos\FMS\Common\DataManager\bin\Debug\EncryptUtilities.dll
+C:\Users\limpo\source\repos\FMS\Common\DataManager\bin\Debug\EncryptUtilities.pdb
+C:\Users\limpo\source\repos\FMS\Common\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\limpo\source\repos\FMS\Common\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\limpo\source\repos\FMS\Common\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\limpo\source\repos\FMS\Common\DataManager\obj\Debug\DataManager.dll
+C:\Users\limpo\source\repos\FMS\Common\DataManager\obj\Debug\DataManager.pdb

@@ -1,0 +1,6 @@
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\Common\StringUtilities\bin\Debug\StringUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\Common\StringUtilities\bin\Debug\StringUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\Common\StringUtilities\obj\Debug\StringUtilities.csproj.AssemblyReference.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\Common\StringUtilities\obj\Debug\StringUtilities.csproj.CoreCompileInputs.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\Common\StringUtilities\obj\Debug\StringUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\Common\StringUtilities\obj\Debug\StringUtilities.pdb

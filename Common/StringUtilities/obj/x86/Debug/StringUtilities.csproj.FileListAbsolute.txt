@@ -1,0 +1,6 @@
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\StringUtilities\bin\x86\Debug\StringUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\StringUtilities\bin\x86\Debug\StringUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\StringUtilities\obj\x86\Debug\StringUtilities.csproj.AssemblyReference.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\StringUtilities\obj\x86\Debug\StringUtilities.csproj.CoreCompileInputs.cache
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\StringUtilities\obj\x86\Debug\StringUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\fms-mysql\Common\StringUtilities\obj\x86\Debug\StringUtilities.pdb
