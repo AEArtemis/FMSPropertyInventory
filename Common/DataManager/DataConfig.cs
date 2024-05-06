@@ -18,18 +18,18 @@ namespace DataManager
         public DataConfig()
         {
 
-            m_strHost = "127.0.0.1";
-            m_strUsername = "root";
-            m_strPassword = "daraga2024";
-            m_strDatabase = "fms_property_inventory";
-            m_strPort = "3306";
+            //m_strHost = "localhost";
+            //m_strUsername = "root";
+            //m_strPassword = "daraga2024";
+            //m_strDatabase = "fms_property_inventory";
+            //m_strPort = "3306";
 
-            
-            //m_strHost = ConfigurationManager.AppSettings["Host"];
-            //m_strUsername = ConfigurationManager.AppSettings["UserId"];
-            //m_strPassword = decrypt.DecryptString(ConfigurationManager.AppSettings["Password"]);
-            //m_strDatabase = ConfigurationManager.AppSe                                                                                        ttings["Database"];
-            //m_strPort = ConfigurationManager.AppSettings["Port"];
+
+            m_strHost = ConfigurationManager.AppSettings["Host"];
+            m_strUsername = ConfigurationManager.AppSettings["UserId"];
+            m_strPassword = decrypt.DecryptString(ConfigurationManager.AppSettings["Password"]);
+            m_strDatabase = ConfigurationManager.AppSettings["Database"];
+            m_strPort = ConfigurationManager.AppSettings["Port"];
         }
 
 

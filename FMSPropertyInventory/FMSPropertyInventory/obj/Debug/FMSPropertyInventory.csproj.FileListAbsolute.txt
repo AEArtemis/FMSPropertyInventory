@@ -1,3 +1,8 @@
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\SqlServerTypes\x64\msvcr120.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\SqlServerTypes\x86\msvcr120.dll
@@ -5,6 +10,7 @@ C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSProp
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\FMSPropertyInventory.exe.config
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\FMSPropertyInventory.exe
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\FMSPropertyInventory.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\DataManager.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\Microsoft.ReportViewer.Design.dll
@@ -13,9 +19,13 @@ C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSProp
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\Microsoft.SqlServer.Types.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\MySql.Data.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\StringUtilities.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\EncryptUtilities.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\EnvDTE.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\stdole.dll
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\DataManager.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\DataManager.dll.config
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\StringUtilities.pdb
+C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\EncryptUtilities.pdb
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\EnvDTE.xml
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
@@ -48,15 +58,10 @@ C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSProp
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
-C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\obj\Debug\FMSPropertyInventory.csproj.AssemblyReference.cache
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\obj\Debug\FMSPropertyInventory.frmLandInventory.resources
 C:\Users\limpo\OneDrive\Desktop\Github Repositories\FMSPropertyInventory\FMSPropertyInventory\FMSPropertyInventory\obj\Debug\FMSPropertyInventory.Properties.Resources.resources
